@@ -14,6 +14,7 @@ Apex Squirrel Scripts is a private repository that contains a collection of powe
 # Features
     - AutoLoot
     - Shield Swap
+    - TriggerBot
     - FullMap_Name ALGS Style
     - DeathBoxESP on Full Map
     - DeathBoxESP on Mini Map
@@ -27,8 +28,8 @@ Apex Squirrel Scripts is a private repository that contains a collection of powe
     - Enemy Highlights
     - Spectator Count
     - Spectator Name
-    - TriggerBot
-    - Training_Orientation_bypass
+    - Training bypass
+    - Orientation Match bypass
     - SuperGlide
 
     extra....
