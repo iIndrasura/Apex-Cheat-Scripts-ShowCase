@@ -4,20 +4,6 @@ Welcome to the Apex Squirrel Scripts Showcase repository! This repository serves
 
 Apex Squirrel Scripts is a private repository that contains a collection of powerful scripts designed for [Apex_Legends]
 
-![ALGSFullmapName](img/ALGSFullmapName.png)
-![FullMapColorRadar](img/FullMapColorRadar.png)
-![nameCharESP](img/nameCharESP.png)
-![Seer](img/Seer.png)
-![specCount](img/specCount.png)
-![deathbox](img/deathbox.png)
-![minimapColor](img/minimapColor.png)
-
-![highlight](img/highlight.png)
-![highlightVisible](img/highlightVisible.png)
-
-![ValkDropShip](img/ValkDropShip.png)
-![nameESP](img/nameESP.png)
-
 ## Supported and Tested Platforms
 
 |                 OS | Distribution                        |
@@ -50,6 +36,20 @@ Apex Squirrel Scripts is a private repository that contains a collection of powe
     - Server_Crash_ballistic
     
     - Injector
+
+![ALGSFullmapName](img/ALGSFullmapName.png)
+![FullMapColorRadar](img/FullMapColorRadar.png)
+![nameCharESP](img/nameCharESP.png)
+![Seer](img/Seer.png)
+![specCount](img/specCount.png)
+![deathbox](img/deathbox.png)
+![minimapColor](img/minimapColor.png)
+
+![highlight](img/highlight.png)
+![highlightVisible](img/highlightVisible.png)
+
+![ValkDropShip](img/ValkDropShip.png)
+![nameESP](img/nameESP.png)
 
 ## Disclaimer: 
 The use of cheat scripts in online games is against the terms of service of most games and can result in penalties, including permanent bans. This repository and its authors do not endorse or encourage cheating in any form. The scripts provided here are for educational purposes only. Use them at your own risk.
