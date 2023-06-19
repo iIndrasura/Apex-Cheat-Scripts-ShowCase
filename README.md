@@ -26,6 +26,7 @@ Apex Squirrel Scripts is a private repository that contains a collection of powe
     - SeerHealthBar
     - Enemy Highlights
     - Spectator Count
+    - Spectator Name
     - TriggerBot
     - Training_Orientation_bypass
     - SuperGlide
