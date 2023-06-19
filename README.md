@@ -20,16 +20,10 @@ Apex Squirrel Scripts is a private repository that contains a collection of powe
 
 ## Supported and Tested Platforms
 
-**Windows**
-
-    Win10
-    Win11
-**Linux**
-
-    popOS
-    Garuda Linux
-    EndeavourOS
-    ....etc
+|                 OS | Distribution                        |
+| -----------------: | :-----------------------------------|
+|       Windows | Windows 10, Windows 11                   |
+|         Linux | popOS, Garuda Linux, EndeavourOS, etc... |
 
 # Features
     - AutoLoot
